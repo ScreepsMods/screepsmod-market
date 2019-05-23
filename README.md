@@ -16,6 +16,7 @@ Config is done via `market.yml` in your screeps directory
 
 ```yaml
 # modes are for potential future use
+# priceMode can be 'fixed' for fixed values or 'random' for random prices and volumes with the given values as average
 priceMode: 'fixed'
 sellMode: 'always'
 buyMode: 'always'
