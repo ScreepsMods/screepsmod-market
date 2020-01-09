@@ -36,7 +36,7 @@ buyPrices:
   U: 10
   L: 10
   X: 10
-sellMineralAmount: 1000000
-buyMineralAmount: 1000000
+sellAmount: 1000000
+buyAmount: 1000000
 ```
 
